@@ -2,7 +2,7 @@
 Largest of Three Ints Program
 ## C++ GitHub Assignment
 
-Create a C++ program which get three integers from the user and finds the sum and largest of the three integers.
+Create a C++ program which gets three integers from the user and finds the sum and largest of the three integers.
 
 Output the sum of the ints and the largest of the ints to the standard output device.
 
